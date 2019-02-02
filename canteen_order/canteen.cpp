@@ -34,26 +34,21 @@ int main()
   choice1();
   break;
   case 2:
-  
-  //clrscr();
+  system("CLS");
   vanB();    //calling function vanB
   printf("----------------------------------------");
   printf("\nThanks\n");
   choice2();
   break;
   case 3:
-  //textbackground(DARKGRAY);
-  //textcolor(RED);
-  //clrscr();
+  system("CLS");
   vanC();   //calling function vanC
   printf("----------------------------------------");
   printf("\nTHANKS\n");
   choice3();
   break;
   case 4:
-  //textbackground(LIGHTGRAY);
-  //textcolor(GREEN);
-  //clrscr();
+  system("CLS");
   vanD();    //calling function vanD
   printf("\nTHANK YOU\n");
   choice4();
