@@ -27,7 +27,6 @@ int main()
  switch(n)
   {
   case 1:
-  //textbackground(LIGHTRED);
   //textcolor(YELLOW);
   //clrscr();
   vanA();        //calling function vanA
