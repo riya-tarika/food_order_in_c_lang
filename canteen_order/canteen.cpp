@@ -16,7 +16,7 @@ void choice4();
 int main()
  {
  int n;
- //textbackground(LIGHTCYAN);
+ 
  //   textcolor(MAGENTA);
   //_setcursortype(_NOCURSOR);
 ////clrscr();
