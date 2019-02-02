@@ -27,16 +27,14 @@ int main()
  switch(n)
   {
   case 1:
-  //textcolor(YELLOW);
-  //clrscr();
+  system("CLS");
   vanA();        //calling function vanA
   printf("-----------------------------------------");
   printf("\nThank You\n");
   choice1();
   break;
   case 2:
-  //textbackground(MAGENTA);
-  //textcolor(WHITE);
+  
   //clrscr();
   vanB();    //calling function vanB
   printf("----------------------------------------");
