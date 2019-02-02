@@ -192,8 +192,6 @@ int main()
   {
   int i,c,amount;
   float bill;
-  //textcolor(GREEN);
-
    printf("\n______ITEMS______________________________AMOUNT______");
    printf("\n  1.Chilli Potato                         50.0\n");
    printf("\n  2.Maggie                                30.0\n");
@@ -322,7 +320,6 @@ int main()
    {
     int c,i,amount;
     float bill;
-   //textcolor(BLUE);
    printf("\n______ITEMS______________________________AMOUNT______");
    printf("\n  1.Chilli Potato                         50.0\n");
    printf("\n  2.Maggie                                30.0\n");
