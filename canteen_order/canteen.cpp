@@ -16,8 +16,6 @@ void choice4();
 int main()
  {
  int n;
- //_setcursortype(_NOCURSOR);
-////clrscr();
  printf("\n       *********************CHOOSE VAN***********************\n");
  printf("                          1. FOOD VAN 'A'\n");
  printf("                          2. FOOD VAN 'B'\n");
